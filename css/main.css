@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.hidden
+{
+	display: none;
+}
+
+.part1
+{
+	padding-left: 400px;
+	padding-top: 80px;
+
+}
+
+ p
+{
+	color: blue;
+	font-size: 20px;
+}
+
+.title
+{
+	padding-left: 400px;
+	font-size: 40px;
+}
+
+.Iocn
+{
+	width: 320px;
+	height: 320px;
+	padding-left: 30px;
+	display: flex;
+	flex-direction: inline;
+}
+
+.part2
+{
+	width: 320px;
+	height: 320px;
+	padding-left: 500px;
+	padding-top: 100px;
+	display: flex;
+	flex-direction: inline;
+}
